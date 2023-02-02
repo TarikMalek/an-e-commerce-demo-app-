@@ -13,3 +13,6 @@ app.json
 eas.json
 # macOS
 .DS_Store
+app.json
+eas.json
+
