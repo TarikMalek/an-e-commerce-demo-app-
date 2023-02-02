@@ -1,5 +1,5 @@
 # an-e-commerce-demo-app
-This app is build using :
+This app is built using :
 - react native expo 
 - redux 
 - react navigation 
